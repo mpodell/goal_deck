@@ -15,11 +15,11 @@ url:
 --- &radio
 
 ## Slide 2
-The FIFA World Cup Finals in Brazil just ended, the top European leagues have yet to start, so to fill that world class soccer (as we say in the States) craving, you:
+The FIFA World Cup Finals in Brazil just ended, the top European leagues have yet to start, so to satisfy that lingering world class soccer (as we say in the States) craving, you:
 
 1. Tell yourself that MLS and Liga MX are just as good (don't get me wrong, I catch Earthquakes games when I can) and just suffer
 
-2. Put on your Messi strip and dribble like crazy through the local under 4 youth team
+2. Put on your Messi strip and dribble like crazy through the local U4 youth team
 
 3. _Check out the 2014 FIFA World Cup Goal Inspector_
 
@@ -34,7 +34,7 @@ This slidify presentation is promoting my ShinyApp.
 ## Slide 3
 What is the [Goal Inspector](http://mpodell.shinyapps.io/goal_inspector/)?
 
-![Goal Inspector](https://cloud.githubusercontent.com/assets/348433/3713195/02e2da64-1559-11e4-8967-9775fefc78a7.jpg)
+![Goal Inspector](./assets/img/ginspector2.jpg)
 
 The Goal Inspector is an interactive histogram of every goal (excluding penalty kicks shootouts in the knockout rounds) in 2014 World Cup Finals.
 
@@ -73,7 +73,9 @@ n1
 ---
 
 ## Slide 5
-You're still here? Go explore the World Cup goals with the [Goal Inspctor](http://mpodell.shinyapps.io/goal_inspector/)!
+You're still here? 
+
+Go explore the World Cup goals with the [Goal Inspector](http://mpodell.shinyapps.io/goal_inspector/)!
 
 This presentation built in [Slidify](http://ramnathv.github.io/slidify/).
 
