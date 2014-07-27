@@ -43,7 +43,7 @@ The Goal Inspector is a [Shiny App](http://shiny.rstudio.com), and uses [rCharts
 ---
 
 ## Slide 4
-So that you don't go into a soccer-withdrawal coma, here is a chart of goal scoring frequency (using rCharts and built when slidifying from R code embedded in the Rmd file. There is too much code to `echo` but see the [Rmd file](https://github.com/mpodell/goal_deck)):
+So that you don't go into a soccer-withdrawal coma, here is a chart of goal scoring frequency (There is too much code to `echo` but see the [Rmd file](https://github.com/mpodell/goal_deck) for embedded R code):
 
 <iframe src=' assets/fig/unnamed-chunk-1.html ' scrolling='no' frameBorder='0' seamless class='rChart polycharts ' id=iframe- chart621079209fff ></iframe> <style>iframe.rChart{ width: 100%; height: 400px;}</style>
 
