@@ -36,7 +36,7 @@ What is the [Goal Inspector](http://mpodell.shinyapps.io/goal_inspector/)?
 
 ![Goal Inspector](https://cloud.githubusercontent.com/assets/348433/3713195/02e2da64-1559-11e4-8967-9775fefc78a7.jpg)
 
-The Goal Inspector is an interactive histogram of every goal (excluding penalty kicks shootouts in the knockout rounds) in 2014 World Cup Finals.
+The Goal Inspector is an interactive histogram of every goal (excluding penalty kick shootouts in the knockout rounds) in 2014 World Cup Finals.
 
 The Goal Inspector is a [Shiny App](http://shiny.rstudio.com), and uses [rCharts](http://rcharts.io) by [Ramnath Vaidyanathan](https://github.com/ramnathv).
 
