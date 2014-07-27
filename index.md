@@ -10,8 +10,8 @@ widgets     : [bootstrap, quiz]            # {mathjax, quiz, bootstrap}
 ext_widgets: {rCharts: [libraries/polychart]}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
-url :
-  assets : ./assets
+logo        : ginspector2.jpg
+
 --- &radio
 
 ## Slide 2
