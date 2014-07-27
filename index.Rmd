@@ -10,7 +10,6 @@ widgets     : [bootstrap, quiz]            # {mathjax, quiz, bootstrap}
 ext_widgets: {rCharts: [libraries/polychart]}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
-logo: ginspector2.jpg
 url :
   assets : ./assets
 --- &radio
