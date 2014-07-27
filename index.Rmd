@@ -32,7 +32,7 @@ This slidify presentation is promoting my ShinyApp.
 ## Slide 3
 What is the [Goal Inspector](http://mpodell.shinyapps.io/goal_inspector/)?
 
-![Goal Inspector](./assets/img/ginspector2.jpg)
+![Goal Inspector](https://cloud.githubusercontent.com/assets/348433/3713195/02e2da64-1559-11e4-8967-9775fefc78a7.jpg)
 
 The Goal Inspector is an interactive histogram of every goal (excluding penalty kicks shootouts in the knockout rounds) in 2014 World Cup Finals.
 
